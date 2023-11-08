@@ -1,37 +1,32 @@
 @charset "utf-8";
-/* Will fill up in next styling assignment */
+
 /* Style for the header element */
 header {
-    background-color: #D2B48C; /* Light brown background color */
-    padding: 10px 0; /* Add some top and bottom padding for spacing */
-    text-align: center; /* Center-align the content */
+    background-color: #D2B48C; 
+    padding: 10px 0; 
+    text-align: center; 
   }
   
-  /* Style for the h1 element inside the header */
   header h1 {
-    margin: 0; /* Remove default margin for h1 */
-    color: #FFFFFF; /* White text color */
+    margin: 0; 
+    color: #FFFFFF; 
   }
   
-  /* Style for the ul element inside the header */
   header ul {
-    list-style: none; /* Remove list bullets */
-    padding: 0; /* Remove default padding for the ul */
+    list-style: none; 
+    padding: 0; 
   }
   
-  /* Style for the li elements inside the header */
   header li {
-    display: inline; /* Display list items inline */
-    margin-right: 15px; /* Add right margin for spacing */
+    display: inline; 
+    margin-right: 15px; 
   }
-  
-  /* Style for the anchor links inside the li elements */
+
   header a {
-    text-decoration: none; /* Remove underline from links */
-    color: #333; /* Dark text color for links */
+    text-decoration: none; 
+    color: #333; 
   }
   
-  /* Change link color on hover for better user experience */
   header a:hover {
-    color: #000; /* Darken the text color on hover */
+    color: #000; 
   }
